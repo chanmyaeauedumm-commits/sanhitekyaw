@@ -1,0 +1,1 @@
+window.YTD.account.part0 = [{"account":{"email":"private@example.com","created_at":"2011-01-01","username":"target_handle","accountId":"42"}}]

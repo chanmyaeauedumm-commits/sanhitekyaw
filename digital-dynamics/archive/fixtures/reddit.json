@@ -1,0 +1,73 @@
+{
+  "submissions": [
+    {
+      "kind": "t3",
+      "data": {
+        "id": "p1",
+        "title": "Best coffee near the office?",
+        "selftext": "Looking for recommendations.",
+        "created_utc": 1743610000,
+        "author": "target_handle",
+        "permalink": "/r/test/comments/p1/x/",
+        "subreddit": "test"
+      }
+    },
+    {
+      "kind": "t3",
+      "data": {
+        "id": "p2",
+        "title": "Late night thoughts thread",
+        "selftext": "",
+        "created_utc": 1758000000,
+        "author": "target_handle",
+        "permalink": "/r/test/comments/p2/x/",
+        "subreddit": "test"
+      }
+    },
+    {
+      "kind": "t3",
+      "data": {
+        "id": "p3",
+        "title": "Not mine",
+        "selftext": "someone else",
+        "created_utc": 1758600000,
+        "author": "other_person",
+        "permalink": "/r/test/comments/p3/x/",
+        "subreddit": "test"
+      }
+    }
+  ],
+  "comments": {
+    "p1": [
+      {
+        "kind": "t1",
+        "data": {
+          "id": "c1",
+          "body": "Try Blue Door.",
+          "created_utc": 1743610600,
+          "author": "helper_one"
+        }
+      },
+      {
+        "kind": "t1",
+        "data": {
+          "id": "c2",
+          "body": "[deleted]",
+          "created_utc": 1743610700,
+          "author": "[deleted]"
+        }
+      }
+    ],
+    "p2": [
+      {
+        "kind": "t1",
+        "data": {
+          "id": "c3",
+          "body": "same here",
+          "created_utc": 1758000600,
+          "author": "late_friend"
+        }
+      }
+    ]
+  }
+}

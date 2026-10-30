@@ -1,0 +1,1959 @@
+[
+  {
+    "id": "post_050",
+    "author": "@nadia_wanders",
+    "post_text": "Two hours of badminton then noodles at East Coast Trail. Peak Saturday.",
+    "timestamp": "2025-11-06T13:08:00",
+    "location": "East Coast Trail",
+    "comments": [
+      {
+        "user": "@gym_buddy_alex",
+        "text": "absolutely stunning shot",
+        "timestamp": "2025-11-06T14:28:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "hahaha this is so you",
+        "timestamp": "2025-11-06T18:57:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "need to try it",
+        "timestamp": "2025-11-06T19:57:00"
+      }
+    ],
+    "tags": [
+      "@old_colleague_sam",
+      "@best_friend",
+      "@hiking_crew"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "East Coast Trail",
+        "timestamp": "2025-11-06T13:08:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "location": "East Coast Trail",
+        "timestamp": "2025-11-06T14:21:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_049",
+    "author": "@nadia_wanders",
+    "post_text": "Coffee run before standup. Iron Yard Gym has the best flat white in the city.",
+    "timestamp": "2025-11-09T21:49:00",
+    "location": "Iron Yard Gym",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "your playlist for this was objectively terrible",
+        "timestamp": "2025-11-09T22:26:00"
+      }
+    ],
+    "tags": [
+      "@old_colleague_sam",
+      "@neighbour_tom"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Iron Yard Gym",
+        "timestamp": "2025-11-09T21:49:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_048",
+    "author": "@nadia_wanders",
+    "post_text": "Trail run at Bishan Park this morning. Saw three otters. Three!",
+    "timestamp": "2025-11-16T17:44:00",
+    "location": "Bishan Park",
+    "comments": [
+      {
+        "user": "@neighbour_tom",
+        "text": "love this for you",
+        "timestamp": "2025-11-16T21:31:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "inside joke #14, you know exactly what I mean",
+        "timestamp": "2025-11-17T02:15:00"
+      }
+    ],
+    "tags": [
+      "@hiking_crew",
+      "@cousin_may",
+      "@gym_buddy_alex"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Bishan Park",
+        "timestamp": "2025-11-16T17:44:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_047",
+    "author": "@nadia_wanders",
+    "post_text": "Finally finished that book at Botanic Gardens. Ask me about the ending (please don't).",
+    "timestamp": "2025-12-08T19:40:00",
+    "location": "Botanic Gardens",
+    "comments": [
+      {
+        "user": "@old_colleague_sam",
+        "text": "love this for you",
+        "timestamp": "2025-12-08T23:06:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "hahaha this is so you",
+        "timestamp": "2025-12-08T23:59:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "your playlist for this was objectively terrible",
+        "timestamp": "2025-12-09T00:37:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "count me in next time",
+        "timestamp": "2025-12-09T00:49:00"
+      }
+    ],
+    "tags": [
+      "@neighbour_tom",
+      "@best_friend"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Botanic Gardens",
+        "timestamp": "2025-12-08T19:40:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "location": "Botanic Gardens",
+        "timestamp": "2025-12-08T21:08:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_046",
+    "author": "@nadia_wanders",
+    "post_text": "Finally finished that book at Bishan Park. Ask me about the ending (please don't).",
+    "timestamp": "2025-12-15T07:02:00",
+    "location": "Bishan Park",
+    "comments": [
+      {
+        "user": "@hiking_crew",
+        "text": "need to try it",
+        "timestamp": "2025-12-15T08:25:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "remember when we got lost looking for this place",
+        "timestamp": "2025-12-15T09:34:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "same. adding it to the team retro",
+        "timestamp": "2025-12-15T16:44:00"
+      }
+    ],
+    "tags": [
+      "@romantic_interest",
+      "@cousin_may",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Bishan Park",
+        "timestamp": "2025-12-15T07:02:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "location": "Bishan Park",
+        "timestamp": "2025-12-15T07:46:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_045",
+    "author": "@nadia_wanders",
+    "post_text": "Team lunch at East Coast Trail. Someone ordered for the whole table again.",
+    "timestamp": "2025-12-28T20:24:00",
+    "location": "East Coast Trail",
+    "comments": [
+      {
+        "user": "@hiking_crew",
+        "text": "hahaha this is so you",
+        "timestamp": "2025-12-28T21:59:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "this place is great",
+        "timestamp": "2025-12-28T22:09:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "reviewing that doc before 10, promise",
+        "timestamp": "2025-12-29T00:27:00"
+      }
+    ],
+    "tags": [
+      "@gym_buddy_alex",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "East Coast Trail",
+        "timestamp": "2025-12-28T20:24:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_044",
+    "author": "@nadia_wanders",
+    "post_text": "Coffee run before standup. Sunrise Fitness has the best flat white in the city.",
+    "timestamp": "2025-12-30T19:24:00",
+    "location": "Sunrise Fitness",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "I'm reading this as a cry for help and also dinner",
+        "timestamp": "2025-12-30T21:09:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "hahaha this is so you",
+        "timestamp": "2025-12-30T21:54:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "hahaha this is so you",
+        "timestamp": "2025-12-30T22:05:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "absolutely stunning shot",
+        "timestamp": "2025-12-30T23:58:00"
+      }
+    ],
+    "tags": [
+      "@romantic_interest",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sunrise Fitness",
+        "timestamp": "2025-12-30T19:24:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "location": "Sunrise Fitness",
+        "timestamp": "2025-12-30T21:05:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_043",
+    "author": "@nadia_wanders",
+    "post_text": "Finally finished that book at Bishan Park. Ask me about the ending (please don't).",
+    "timestamp": "2026-01-07T19:21:00",
+    "location": "Bishan Park",
+    "comments": [
+      {
+        "user": "@hiking_crew",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-01-07T20:08:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "your playlist for this was objectively terrible",
+        "timestamp": "2026-01-07T21:56:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "love this for you",
+        "timestamp": "2026-01-07T22:37:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "same. adding it to the team retro",
+        "timestamp": "2026-01-08T01:17:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "count me in next time",
+        "timestamp": "2026-01-08T01:56:00"
+      }
+    ],
+    "tags": [
+      "@neighbour_tom",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Bishan Park",
+        "timestamp": "2026-01-07T19:21:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_042",
+    "author": "@nadia_wanders",
+    "post_text": "Team lunch at Blue Door Cafe. Someone ordered for the whole table again.",
+    "timestamp": "2026-01-19T08:29:00",
+    "location": "Blue Door Cafe",
+    "comments": [
+      {
+        "user": "@neighbour_tom",
+        "text": "count me in next time",
+        "timestamp": "2026-01-19T10:51:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-01-19T11:47:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "I'll take a flat white too, thanks",
+        "timestamp": "2026-01-19T15:37:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-01-19T17:56:00"
+      }
+    ],
+    "tags": [
+      "@cousin_may"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-01-19T08:29:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_041",
+    "author": "@nadia_wanders",
+    "post_text": "Dinner at Hawker Row with the usual suspects. Laughing until my ribs hurt.",
+    "timestamp": "2026-01-27T19:40:00",
+    "location": "Hawker Row",
+    "comments": [
+      {
+        "user": "@cousin_may",
+        "text": "count me in next time",
+        "timestamp": "2026-01-27T19:57:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "same. adding it to the team retro",
+        "timestamp": "2026-01-27T21:47:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "I was there an hour after you, funny timing",
+        "timestamp": "2026-01-27T23:48:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "sending you a meme about this in 3, 2, 1",
+        "timestamp": "2026-01-28T00:37:00"
+      }
+    ],
+    "tags": [
+      "@romantic_interest",
+      "@best_friend",
+      "@coworker_jin"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Hawker Row",
+        "timestamp": "2026-01-27T19:40:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_040",
+    "author": "@nadia_wanders",
+    "post_text": "Squat day at The Reading Room. Legs are officially gone. Worth it.",
+    "timestamp": "2026-01-30T19:52:00",
+    "location": "The Reading Room",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "I'm reading this as a cry for help and also dinner",
+        "timestamp": "2026-01-30T21:53:00"
+      }
+    ],
+    "tags": [
+      "@neighbour_tom",
+      "@hiking_crew",
+      "@best_friend"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "The Reading Room",
+        "timestamp": "2026-01-30T19:52:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "location": "The Reading Room",
+        "timestamp": "2026-01-30T21:26:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_039",
+    "author": "@nadia_wanders",
+    "post_text": "Two hours of badminton then noodles at Sunrise Fitness. Peak Saturday.",
+    "timestamp": "2026-02-08T20:02:00",
+    "location": "Sunrise Fitness",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "we said NO more gym before 7am",
+        "timestamp": "2026-02-08T23:10:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "love this for you",
+        "timestamp": "2026-02-09T01:33:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "need to try it",
+        "timestamp": "2026-02-09T01:42:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-02-09T02:01:00"
+      }
+    ],
+    "tags": [
+      "@neighbour_tom",
+      "@gym_buddy_alex"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sunrise Fitness",
+        "timestamp": "2026-02-08T20:02:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_038",
+    "author": "@nadia_wanders",
+    "post_text": "Two hours of badminton then noodles at Tandoor Lane. Peak Saturday.",
+    "timestamp": "2026-02-10T17:44:00",
+    "location": "Tandoor Lane",
+    "comments": [
+      {
+        "user": "@neighbour_tom",
+        "text": "love this for you",
+        "timestamp": "2026-02-10T18:13:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "your playlist for this was objectively terrible",
+        "timestamp": "2026-02-10T19:09:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "need to try it",
+        "timestamp": "2026-02-11T03:36:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@romantic_interest",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Tandoor Lane",
+        "timestamp": "2026-02-10T17:44:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_037",
+    "author": "@nadia_wanders",
+    "post_text": "Squat day at Sunrise Fitness. Legs are officially gone. Worth it.",
+    "timestamp": "2026-02-28T20:37:00",
+    "location": "Sunrise Fitness",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "sending you a meme about this in 3, 2, 1",
+        "timestamp": "2026-03-01T01:12:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "count me in next time",
+        "timestamp": "2026-03-01T06:22:00"
+      }
+    ],
+    "tags": [
+      "@neighbour_tom",
+      "@best_friend"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sunrise Fitness",
+        "timestamp": "2026-02-28T20:37:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_036",
+    "author": "@nadia_wanders",
+    "post_text": "Finally finished that book at Iron Yard Gym. Ask me about the ending (please don't).",
+    "timestamp": "2026-03-12T08:48:00",
+    "location": "Iron Yard Gym",
+    "comments": [
+      {
+        "user": "@coworker_jin",
+        "text": "reviewing that doc before 10, promise",
+        "timestamp": "2026-03-12T11:31:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "sending you a meme about this in 3, 2, 1",
+        "timestamp": "2026-03-12T12:56:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "need to try it",
+        "timestamp": "2026-03-12T13:46:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-03-12T16:35:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "that view never gets old, does it",
+        "timestamp": "2026-03-12T16:52:00"
+      }
+    ],
+    "tags": [
+      "@hiking_crew"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Iron Yard Gym",
+        "timestamp": "2026-03-12T08:48:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_035",
+    "author": "@nadia_wanders",
+    "post_text": "Rainy day = Iron Yard Gym and a very slow crossword.",
+    "timestamp": "2026-03-13T20:03:00",
+    "location": "Iron Yard Gym",
+    "comments": [
+      {
+        "user": "@coworker_jin",
+        "text": "standup moved to 9:15 btw",
+        "timestamp": "2026-03-13T22:07:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "text": "count me in next time",
+        "timestamp": "2026-03-13T23:57:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "love this for you",
+        "timestamp": "2026-03-14T03:25:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-03-14T03:47:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@cousin_may"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Iron Yard Gym",
+        "timestamp": "2026-03-13T20:03:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_034",
+    "author": "@nadia_wanders",
+    "post_text": "Sunday walk through Riverside Roasters with the camera. Golden hour was unreal.",
+    "timestamp": "2026-03-17T17:02:00",
+    "location": "Riverside Roasters",
+    "comments": [
+      {
+        "user": "@old_colleague_sam",
+        "text": "this place is great",
+        "timestamp": "2026-03-17T18:11:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "your playlist for this was objectively terrible",
+        "timestamp": "2026-03-17T18:50:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "this place is great",
+        "timestamp": "2026-03-17T21:23:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-03-17T22:53:00"
+      }
+    ],
+    "tags": [
+      "@neighbour_tom",
+      "@best_friend"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Riverside Roasters",
+        "timestamp": "2026-03-17T17:02:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_033",
+    "author": "@nadia_wanders",
+    "post_text": "Dinner at Iron Yard Gym with the usual suspects. Laughing until my ribs hurt.",
+    "timestamp": "2026-04-06T17:16:00",
+    "location": "Iron Yard Gym",
+    "comments": [
+      {
+        "user": "@hiking_crew",
+        "text": "love this for you",
+        "timestamp": "2026-04-06T20:22:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "sending you a meme about this in 3, 2, 1",
+        "timestamp": "2026-04-06T20:35:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "same. adding it to the team retro",
+        "timestamp": "2026-04-06T22:02:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "need to try it",
+        "timestamp": "2026-04-06T22:22:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Iron Yard Gym",
+        "timestamp": "2026-04-06T17:16:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_032",
+    "author": "@nadia_wanders",
+    "post_text": "Team lunch at Sunrise Fitness. Someone ordered for the whole table again.",
+    "timestamp": "2026-04-11T20:48:00",
+    "location": "Sunrise Fitness",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "inside joke #14, you know exactly what I mean",
+        "timestamp": "2026-04-11T22:26:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "same. adding it to the team retro",
+        "timestamp": "2026-04-12T01:00:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "count me in next time",
+        "timestamp": "2026-04-12T05:54:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-04-12T06:14:00"
+      }
+    ],
+    "tags": [
+      "@old_colleague_sam",
+      "@neighbour_tom"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sunrise Fitness",
+        "timestamp": "2026-04-11T20:48:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_031",
+    "author": "@nadia_wanders",
+    "post_text": "Team lunch at Noodle House 88. Someone ordered for the whole table again.",
+    "timestamp": "2026-04-13T08:17:00",
+    "location": "Noodle House 88",
+    "comments": [
+      {
+        "user": "@coworker_jin",
+        "text": "I'll take a flat white too, thanks",
+        "timestamp": "2026-04-13T11:26:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-04-13T13:02:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "love this for you",
+        "timestamp": "2026-04-13T13:06:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "remember when we got lost looking for this place",
+        "timestamp": "2026-04-13T14:04:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@cousin_may",
+      "@coworker_jin"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Noodle House 88",
+        "timestamp": "2026-04-13T08:17:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "location": "Noodle House 88",
+        "timestamp": "2026-04-13T09:34:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_030",
+    "author": "@nadia_wanders",
+    "post_text": "Trail run at Bishan Park this morning. Saw three otters. Three!",
+    "timestamp": "2026-04-22T18:04:00",
+    "location": "Bishan Park",
+    "comments": [
+      {
+        "user": "@old_colleague_sam",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-04-23T01:33:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "I'll take a flat white too, thanks",
+        "timestamp": "2026-04-23T01:57:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-04-23T03:01:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "count me in next time",
+        "timestamp": "2026-04-23T03:18:00"
+      }
+    ],
+    "tags": [
+      "@cousin_may",
+      "@gym_buddy_alex",
+      "@coworker_jin"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Bishan Park",
+        "timestamp": "2026-04-22T18:04:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_029",
+    "author": "@nadia_wanders",
+    "post_text": "Dinner at Sushi Nine with the usual suspects. Laughing until my ribs hurt.",
+    "timestamp": "2026-04-27T20:43:00",
+    "location": "Sushi Nine",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "proud of you, obviously",
+        "timestamp": "2026-04-27T22:30:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@gym_buddy_alex",
+      "@cousin_may"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sushi Nine",
+        "timestamp": "2026-04-27T20:43:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_028",
+    "author": "@nadia_wanders",
+    "post_text": "Dinner at Blue Door Cafe with the usual suspects. Laughing until my ribs hurt.",
+    "timestamp": "2026-05-05T20:02:00",
+    "location": "Blue Door Cafe",
+    "comments": [
+      {
+        "user": "@cousin_may",
+        "text": "need to try it",
+        "timestamp": "2026-05-05T22:02:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "count me in next time",
+        "timestamp": "2026-05-05T23:48:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-05-06T00:27:00"
+      }
+    ],
+    "tags": [
+      "@cousin_may"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-05-05T20:02:00"
+      },
+      {
+        "user": "@best_friend",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-05-05T20:56:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_027",
+    "author": "@nadia_wanders",
+    "post_text": "Sunday walk through The Reading Room with the camera. Golden hour was unreal.",
+    "timestamp": "2026-05-12T20:01:00",
+    "location": "The Reading Room",
+    "comments": [
+      {
+        "user": "@gym_buddy_alex",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-05-12T20:23:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-05-13T00:22:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "I'll take a flat white too, thanks",
+        "timestamp": "2026-05-13T02:32:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "love this for you",
+        "timestamp": "2026-05-13T02:32:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@gym_buddy_alex",
+      "@coworker_jin"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "The Reading Room",
+        "timestamp": "2026-05-12T20:01:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_026",
+    "author": "@nadia_wanders",
+    "post_text": "Two hours of badminton then noodles at Sushi Nine. Peak Saturday.",
+    "timestamp": "2026-05-14T17:48:00",
+    "location": "Sushi Nine",
+    "comments": [
+      {
+        "user": "@romantic_interest",
+        "text": "we should make this a weekly thing",
+        "timestamp": "2026-05-15T00:45:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "same. adding it to the team retro",
+        "timestamp": "2026-05-15T02:08:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "proud of you, obviously",
+        "timestamp": "2026-05-15T02:10:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "need to try it",
+        "timestamp": "2026-05-15T02:57:00"
+      }
+    ],
+    "tags": [
+      "@romantic_interest"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sushi Nine",
+        "timestamp": "2026-05-14T17:48:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_025",
+    "author": "@nadia_wanders",
+    "post_text": "Trail run at Iron Yard Gym this morning. Saw three otters. Three!",
+    "timestamp": "2026-05-26T12:45:00",
+    "location": "Iron Yard Gym",
+    "comments": [
+      {
+        "user": "@coworker_jin",
+        "text": "same. adding it to the team retro",
+        "timestamp": "2026-05-26T19:26:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "your playlist for this was objectively terrible",
+        "timestamp": "2026-05-26T19:53:00"
+      }
+    ],
+    "tags": [
+      "@romantic_interest",
+      "@hiking_crew",
+      "@best_friend"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Iron Yard Gym",
+        "timestamp": "2026-05-26T12:45:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_024",
+    "author": "@nadia_wanders",
+    "post_text": "Sunday walk through Sushi Nine with the camera. Golden hour was unreal.",
+    "timestamp": "2026-06-10T21:57:00",
+    "location": "Sushi Nine",
+    "comments": [
+      {
+        "user": "@coworker_jin",
+        "text": "standup moved to 9:15 btw",
+        "timestamp": "2026-06-11T02:43:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-06-11T02:52:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "love this for you",
+        "timestamp": "2026-06-11T03:43:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "love this for you",
+        "timestamp": "2026-06-11T05:30:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "your playlist for this was objectively terrible",
+        "timestamp": "2026-06-11T05:40:00"
+      }
+    ],
+    "tags": [
+      "@coworker_jin",
+      "@neighbour_tom"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sushi Nine",
+        "timestamp": "2026-06-10T21:57:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "location": "Sushi Nine",
+        "timestamp": "2026-06-10T23:40:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_023",
+    "author": "@nadia_wanders",
+    "post_text": "Trail run at Sushi Nine this morning. Saw three otters. Three!",
+    "timestamp": "2026-06-13T21:44:00",
+    "location": "Sushi Nine",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "inside joke #14, you know exactly what I mean",
+        "timestamp": "2026-06-13T23:36:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-06-14T00:03:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "count me in next time",
+        "timestamp": "2026-06-14T02:02:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-06-14T06:50:00"
+      }
+    ],
+    "tags": [
+      "@old_colleague_sam",
+      "@romantic_interest",
+      "@hiking_crew"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sushi Nine",
+        "timestamp": "2026-06-13T21:44:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_022",
+    "author": "@nadia_wanders",
+    "post_text": "Dinner at Bishan Park with the usual suspects. Laughing until my ribs hurt.",
+    "timestamp": "2026-06-15T20:40:00",
+    "location": "Bishan Park",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "proud of you, obviously",
+        "timestamp": "2026-06-16T00:06:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "reviewing that doc before 10, promise",
+        "timestamp": "2026-06-16T00:53:00"
+      }
+    ],
+    "tags": [
+      "@romantic_interest",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Bishan Park",
+        "timestamp": "2026-06-15T20:40:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_021",
+    "author": "@nadia_wanders",
+    "post_text": "Trail run at Sunrise Fitness this morning. Saw three otters. Three!",
+    "timestamp": "2026-07-01T20:08:00",
+    "location": "Sunrise Fitness",
+    "comments": [
+      {
+        "user": "@coworker_jin",
+        "text": "reviewing that doc before 10, promise",
+        "timestamp": "2026-07-02T01:22:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "text": "count me in next time",
+        "timestamp": "2026-07-02T01:40:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-07-02T03:43:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "count me in next time",
+        "timestamp": "2026-07-02T04:15:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "sending you a meme about this in 3, 2, 1",
+        "timestamp": "2026-07-02T05:53:00"
+      }
+    ],
+    "tags": [
+      "@gym_buddy_alex",
+      "@old_colleague_sam",
+      "@best_friend"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sunrise Fitness",
+        "timestamp": "2026-07-01T20:08:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_020",
+    "author": "@nadia_wanders",
+    "post_text": "Finally finished that book at Noodle House 88. Ask me about the ending (please don't).",
+    "timestamp": "2026-07-12T20:07:00",
+    "location": "Noodle House 88",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "remember when we got lost looking for this place",
+        "timestamp": "2026-07-12T20:11:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "text": "love this for you",
+        "timestamp": "2026-07-12T22:17:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "count me in next time",
+        "timestamp": "2026-07-13T01:26:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "standup moved to 9:15 btw",
+        "timestamp": "2026-07-13T02:22:00"
+      }
+    ],
+    "tags": [
+      "@romantic_interest",
+      "@gym_buddy_alex",
+      "@hiking_crew"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Noodle House 88",
+        "timestamp": "2026-07-12T20:07:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_019",
+    "author": "@nadia_wanders",
+    "post_text": "Long week. Riverside Roasters, a flat white and zero notifications for an hour.",
+    "timestamp": "2026-07-19T18:17:00",
+    "location": "Riverside Roasters",
+    "comments": [
+      {
+        "user": "@coworker_jin",
+        "text": "reviewing that doc before 10, promise",
+        "timestamp": "2026-07-19T20:18:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "count me in next time",
+        "timestamp": "2026-07-19T22:51:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "this place is great",
+        "timestamp": "2026-07-20T01:44:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "remember when we got lost looking for this place",
+        "timestamp": "2026-07-20T03:29:00"
+      }
+    ],
+    "tags": [
+      "@old_colleague_sam",
+      "@hiking_crew"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Riverside Roasters",
+        "timestamp": "2026-07-19T18:17:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_018",
+    "author": "@nadia_wanders",
+    "post_text": "Sunday walk through Sunrise Fitness with the camera. Golden hour was unreal.",
+    "timestamp": "2026-07-21T21:51:00",
+    "location": "Sunrise Fitness",
+    "comments": [
+      {
+        "user": "@hiking_crew",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-07-22T03:52:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "okay but you still owe me that flat white",
+        "timestamp": "2026-07-22T04:25:00"
+      }
+    ],
+    "tags": [
+      "@hiking_crew",
+      "@coworker_jin"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sunrise Fitness",
+        "timestamp": "2026-07-21T21:51:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "location": "Sunrise Fitness",
+        "timestamp": "2026-07-21T22:57:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_017",
+    "author": "@nadia_wanders",
+    "post_text": "Finally finished that book at Iron Yard Gym. Ask me about the ending (please don't).",
+    "timestamp": "2026-07-29T12:27:00",
+    "location": "Iron Yard Gym",
+    "comments": [
+      {
+        "user": "@coworker_jin",
+        "text": "standup moved to 9:15 btw",
+        "timestamp": "2026-07-29T14:15:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-07-29T15:08:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "need to try it",
+        "timestamp": "2026-07-29T15:31:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "this place is great",
+        "timestamp": "2026-07-29T15:33:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "inside joke #14, you know exactly what I mean",
+        "timestamp": "2026-07-29T18:36:00"
+      }
+    ],
+    "tags": [
+      "@old_colleague_sam",
+      "@romantic_interest",
+      "@hiking_crew"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Iron Yard Gym",
+        "timestamp": "2026-07-29T12:27:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_016",
+    "author": "@nadia_wanders",
+    "post_text": "Up late. Thinking about things. Not posting about them.",
+    "timestamp": "2026-08-12T22:32:00",
+    "location": "Tandoor Lane",
+    "comments": [
+      {
+        "user": "@neighbour_tom",
+        "text": "this place is great",
+        "timestamp": "2026-08-13T00:29:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "I'll take a flat white too, thanks",
+        "timestamp": "2026-08-13T00:48:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-08-13T01:07:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "we should make this a weekly thing",
+        "timestamp": "2026-08-13T01:20:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "remember when we got lost looking for this place",
+        "timestamp": "2026-08-13T03:18:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-08-13T05:52:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@romantic_interest",
+      "@gym_buddy_alex"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Tandoor Lane",
+        "timestamp": "2026-08-12T22:32:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_015",
+    "author": "@nadia_wanders",
+    "post_text": "Some rooms you only understand at 11pm. Mine is one of them.",
+    "timestamp": "2026-08-18T00:41:00",
+    "location": "Riverside Roasters",
+    "comments": [
+      {
+        "user": "@cousin_may",
+        "text": "love this for you",
+        "timestamp": "2026-08-18T04:19:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "you picked a good table today",
+        "timestamp": "2026-08-18T10:10:00"
+      }
+    ],
+    "tags": [
+      "@old_colleague_sam",
+      "@coworker_jin",
+      "@neighbour_tom"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Riverside Roasters",
+        "timestamp": "2026-08-18T00:41:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_014",
+    "author": "@nadia_wanders",
+    "post_text": "Some rooms you only understand at 11pm. Mine is one of them.",
+    "timestamp": "2026-09-02T21:00:00",
+    "location": "Hawker Row",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "we said NO more gym before 7am",
+        "timestamp": "2026-09-02T23:18:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "love this for you",
+        "timestamp": "2026-09-02T23:44:00"
+      }
+    ],
+    "tags": [
+      "@cousin_may",
+      "@neighbour_tom"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Hawker Row",
+        "timestamp": "2026-09-02T21:00:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_013",
+    "author": "@nadia_wanders",
+    "post_text": "Late walk. Streetlights and no plans.",
+    "timestamp": "2026-09-25T23:15:00",
+    "location": "Kopi & Co.",
+    "comments": [
+      {
+        "user": "@cousin_may",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-09-26T01:32:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "I'm reading this as a cry for help and also dinner",
+        "timestamp": "2026-09-26T03:45:00"
+      }
+    ],
+    "tags": [
+      "@cousin_may",
+      "@hiking_crew",
+      "@gym_buddy_alex"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Kopi & Co.",
+        "timestamp": "2026-09-25T23:15:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_012",
+    "author": "@nadia_wanders",
+    "post_text": "Up late. Thinking about things. Not posting about them.",
+    "timestamp": "2026-09-27T23:03:00",
+    "location": "Bishan Park",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "sending you a meme about this in 3, 2, 1",
+        "timestamp": "2026-09-28T00:04:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "next one's on me",
+        "timestamp": "2026-09-28T00:16:00"
+      }
+    ],
+    "tags": [
+      "@hiking_crew",
+      "@neighbour_tom",
+      "@best_friend"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Bishan Park",
+        "timestamp": "2026-09-27T23:03:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_011",
+    "author": "@nadia_wanders",
+    "post_text": "Quiet week. Went where I wanted, alone, and it was good.",
+    "timestamp": "2026-09-28T22:55:00",
+    "location": "Hawker Row",
+    "comments": [
+      {
+        "user": "@old_colleague_sam",
+        "text": "need to try it",
+        "timestamp": "2026-09-29T02:12:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "remember when we got lost looking for this place",
+        "timestamp": "2026-09-29T03:29:00"
+      },
+      {
+        "user": "@old_colleague_sam",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-09-29T08:27:00"
+      }
+    ],
+    "tags": [
+      "@hiking_crew",
+      "@best_friend"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Hawker Row",
+        "timestamp": "2026-09-28T22:55:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_010",
+    "author": "@nadia_wanders",
+    "post_text": "Some rooms you only understand at 11pm. Mine is one of them.",
+    "timestamp": "2026-09-29T23:26:00",
+    "location": "Hawker Row",
+    "comments": [
+      {
+        "user": "@neighbour_tom",
+        "text": "this place is great",
+        "timestamp": "2026-09-30T00:20:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "I'm reading this as a cry for help and also dinner",
+        "timestamp": "2026-09-30T01:20:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "that view never gets old, does it",
+        "timestamp": "2026-09-30T01:52:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "this place is great",
+        "timestamp": "2026-09-30T07:02:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "love this for you",
+        "timestamp": "2026-09-30T07:22:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@neighbour_tom",
+      "@coworker_jin"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Hawker Row",
+        "timestamp": "2026-09-29T23:26:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "location": "Hawker Row",
+        "timestamp": "2026-09-30T00:42:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_009",
+    "author": "@nadia_wanders",
+    "post_text": "Some rooms you only understand at 11pm. Mine is one of them.",
+    "timestamp": "2026-10-09T23:14:00",
+    "location": "Iron Yard Gym",
+    "comments": [
+      {
+        "user": "@hiking_crew",
+        "text": "count me in next time",
+        "timestamp": "2026-10-10T01:32:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "inside joke #14, you know exactly what I mean",
+        "timestamp": "2026-10-10T03:11:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "next one's on me",
+        "timestamp": "2026-10-10T04:02:00"
+      },
+      {
+        "user": "@coworker_jin",
+        "text": "reviewing that doc before 10, promise",
+        "timestamp": "2026-10-10T04:55:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-10-10T06:13:00"
+      },
+      {
+        "user": "@neighbour_tom",
+        "text": "count me in next time",
+        "timestamp": "2026-10-10T07:21:00"
+      }
+    ],
+    "tags": [
+      "@coworker_jin"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Iron Yard Gym",
+        "timestamp": "2026-10-09T23:14:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "location": "Iron Yard Gym",
+        "timestamp": "2026-10-10T00:14:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_008",
+    "author": "@nadia_wanders",
+    "post_text": "Late walk. Streetlights and no plans.",
+    "timestamp": "2026-10-13T23:13:00",
+    "location": "Sunrise Fitness",
+    "comments": [
+      {
+        "user": "@romantic_interest",
+        "text": "I was there an hour after you, funny timing",
+        "timestamp": "2026-10-14T06:58:00"
+      }
+    ],
+    "tags": [
+      "@hiking_crew"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sunrise Fitness",
+        "timestamp": "2026-10-13T23:13:00"
+      },
+      {
+        "user": "@best_friend",
+        "location": "Sunrise Fitness",
+        "timestamp": "2026-10-14T00:43:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_007",
+    "author": "@nadia_wanders",
+    "post_text": "New routine. Different timezone of the day, same person.",
+    "timestamp": "2026-10-15T21:07:00",
+    "location": "Botanic Gardens",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "okay but you still owe me that flat white",
+        "timestamp": "2026-10-15T22:37:00"
+      },
+      {
+        "user": "@hiking_crew",
+        "text": "hahaha this is so you",
+        "timestamp": "2026-10-16T05:16:00"
+      }
+    ],
+    "tags": [
+      "@gym_buddy_alex",
+      "@neighbour_tom",
+      "@cousin_may"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Botanic Gardens",
+        "timestamp": "2026-10-15T21:07:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_006",
+    "author": "@nadia_wanders",
+    "post_text": "Coffee at Blue Door Cafe. Small table, big notebook. Working on something.",
+    "timestamp": "2026-10-20T23:56:00",
+    "location": "Blue Door Cafe",
+    "comments": [
+      {
+        "user": "@hiking_crew",
+        "text": "love this for you",
+        "timestamp": "2026-10-21T02:44:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "you picked a good table today",
+        "timestamp": "2026-10-21T05:04:00"
+      }
+    ],
+    "tags": [
+      "@best_friend",
+      "@cousin_may",
+      "@gym_buddy_alex"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-10-20T23:56:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-10-21T01:23:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_005",
+    "author": "@nadia_wanders",
+    "post_text": "Reread old messages tonight. Filed them away.",
+    "timestamp": "2026-10-23T21:24:00",
+    "location": "Sushi Nine",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "inside joke #14, you know exactly what I mean",
+        "timestamp": "2026-10-23T23:24:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "we should make this a weekly thing",
+        "timestamp": "2026-10-24T03:15:00"
+      }
+    ],
+    "tags": [
+      "@romantic_interest",
+      "@coworker_jin"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sushi Nine",
+        "timestamp": "2026-10-23T21:24:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_004",
+    "author": "@nadia_wanders",
+    "post_text": "Stepped out of the usual loop. Feels lighter.",
+    "timestamp": "2026-10-24T22:41:00",
+    "location": "Sushi Nine",
+    "comments": [
+      {
+        "user": "@neighbour_tom",
+        "text": "absolutely stunning shot",
+        "timestamp": "2026-10-25T00:17:00"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "need to try it",
+        "timestamp": "2026-10-25T01:05:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "this place is great",
+        "timestamp": "2026-10-25T01:20:00"
+      },
+      {
+        "user": "@best_friend",
+        "text": "sending you a meme about this in 3, 2, 1",
+        "timestamp": "2026-10-25T02:56:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "text": "I was there an hour after you, funny timing",
+        "timestamp": "2026-10-25T06:02:00"
+      }
+    ],
+    "tags": [
+      "@gym_buddy_alex",
+      "@romantic_interest",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Sushi Nine",
+        "timestamp": "2026-10-24T22:41:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_003",
+    "author": "@nadia_wanders",
+    "post_text": "Late walk. Streetlights and no plans.",
+    "timestamp": "2026-10-26T22:29:00",
+    "location": "Blue Door Cafe",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "proud of you, obviously",
+        "timestamp": "2026-10-27T04:04:00"
+      },
+      {
+        "user": "@gym_buddy_alex",
+        "text": "love this for you",
+        "timestamp": "2026-10-27T05:22:00"
+      }
+    ],
+    "tags": [
+      "@coworker_jin",
+      "@neighbour_tom"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-10-26T22:29:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-10-26T23:34:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_002",
+    "author": "@nadia_wanders",
+    "post_text": "Not everything needs an explanation. Or a caption.",
+    "timestamp": "2026-10-29T23:40:00",
+    "location": "Blue Door Cafe",
+    "comments": [
+      {
+        "user": "@best_friend",
+        "text": "I'm reading this as a cry for help and also dinner",
+        "timestamp": "2026-10-30T03:17:00"
+      }
+    ],
+    "tags": [
+      "@gym_buddy_alex",
+      "@cousin_may",
+      "@old_colleague_sam"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-10-29T23:40:00"
+      },
+      {
+        "user": "@romantic_interest",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-10-30T00:36:00"
+      }
+    ],
+    "source": "synthetic-demo"
+  },
+  {
+    "id": "post_001",
+    "author": "@nadia_wanders",
+    "post_text": "You can like the people around you and still want a quieter room.",
+    "timestamp": "2026-10-30T05:49:33",
+    "location": "Blue Door Cafe",
+    "comments": [
+      {
+        "user": "@romantic_interest",
+        "text": "you picked a good table today",
+        "timestamp": "2026-10-30T06:38:33"
+      },
+      {
+        "user": "@cousin_may",
+        "text": "this place is great",
+        "timestamp": "2026-10-30T09:50:33"
+      }
+    ],
+    "tags": [
+      "@romantic_interest"
+    ],
+    "checkins": [
+      {
+        "user": "@nadia_wanders",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-10-30T05:49:33"
+      },
+      {
+        "user": "@romantic_interest",
+        "location": "Blue Door Cafe",
+        "timestamp": "2026-10-30T06:49:33"
+      }
+    ],
+    "source": "synthetic-demo"
+  }
+]
